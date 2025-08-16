@@ -1,8 +1,8 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  max-width: 1280px !important; 
+  margin: 0 auto !important;
+  padding: 2rem !important;
+  text-align: center !important;
 }
 
 .logo {
